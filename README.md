@@ -110,11 +110,3 @@ GitHub: https://github.com/tulsidounekarr
 **⭐ If you found this project helpful**
 
 Please consider giving this repository a ⭐ on GitHub!
-
-**Krishna Tulsi**
-
-B.Tech Computer Science & Engineering
-
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
