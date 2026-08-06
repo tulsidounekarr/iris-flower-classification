@@ -102,6 +102,15 @@ pip install pandas numpy matplotlib scikit-learn
 
 ## 👩‍💻 Author
 
+**Tulsi Dounekar**
+B.tech computer science and engineering 
+
+GitHub: https://github.com/tulsidounekarr
+
+**⭐ If you found this project helpful**
+
+Please consider giving this repository a ⭐ on GitHub!
+
 **Krishna Tulsi**
 
 B.Tech Computer Science & Engineering
